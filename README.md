@@ -1,3 +1,4 @@
 # My-Web-Page
-mini portfolio
-![8d58bb7f-4694-495d-b2b6-863cfde39ae3](https://user-images.githubusercontent.com/102557749/177629058-b2a9f325-d3cd-4f60-b797-c2b75cbdf6cf.jpg)
+this is a mini website portfolio.
+It has an About me page, contact, register and log in page though it's not responsive
+page output: https://Wep-page.kaludavid.repl.co
